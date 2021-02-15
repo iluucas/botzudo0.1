@@ -60,7 +60,7 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/FdhlGraphy/botwa-termux
+> git clone https://https://github.com/iluucas/botzudo0.1
 > cd botwa-termux
 > bash install.sh
 ```
